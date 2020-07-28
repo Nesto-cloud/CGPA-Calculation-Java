@@ -1,0 +1,2 @@
+# CGPA-Calculation-Java
+The project uses takes 3 java classes to calculate CGPA for two years.The main class and two other classes containing the courses for the first and second year. the first year class contains some methods needed to take decisions and calculaions. the second year class calls some of these methods for use in calculations.
